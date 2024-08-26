@@ -1,4 +1,6 @@
-## Hi there 👋
+# Username changed to [@zerebos](https://github.com/zerebos)
+
+This account exists to catch old @mentions and direct people to the updated username as well as protect against malicious code being inserted at old username/repo combinations which could cause harm to users.
 
 <!--
 **rauenzi/rauenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
